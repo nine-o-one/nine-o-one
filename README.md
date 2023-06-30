@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Sebastian Saenz 👋
+
+I'm a Data Scientist and Engineer from Colombia.
+
+I’m currently learning API's development and deep learning algorithms. 🌱
+
+I'm passionate about street photograpy 📷, technology 👨‍💻 and food 👨‍🍳.
 
 <!--
 **nine-o-one/nine-o-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
